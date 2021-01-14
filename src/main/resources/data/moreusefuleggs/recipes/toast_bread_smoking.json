@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:smoking",
+	"ingredient": {
+		"item": "moreusefuleggs:sliced_bread"
+		},
+	
+	"result": "moreusefuleggs:toast_bread",
+	"experience": 0.3,
+	"cookingtime": 120
+}

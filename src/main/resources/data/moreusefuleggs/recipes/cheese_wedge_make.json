@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+			{
+				"item": "minecraft:milk_bucket"
+			}
+	],
+	
+	"result":
+		{
+			"item": "moreusefuleggs:cheese_wedge",
+			"count": 6
+		}
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		  {
+			"item": "moreusefuleggs:scrambledcheese_eggs"
+		  },
+		  
+		  {
+		  	"item": "minecraft:cooked_chicken"
+		  }
+		
+		],
+	
+	"result": 
+	{
+		"item": "moreusefuleggs:scrambledcheesechicken_eggs",
+		"experience": 0.5
+	}
+}

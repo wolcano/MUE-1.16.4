@@ -1,0 +1,39 @@
+# The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
+modLoader="javafml" #mandatory
+
+# A version range to match for said mod loader - for regular FML @Mod it will be the forge version
+loaderVersion="[35,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+# The license for you mod. This is mandatory metadata and allows for easier comprehension of your redistributive properties.
+# Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
+license="All rights reserved"
+
+# A list of mods - how many allowed here is determined by the individual mod loader
+[[mods]] #mandatory
+
+# The modid of the mod
+modId="moreusefuleggs" #mandatory
+
+# The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
+version="1.0" #mandatory
+
+ # A display name for the mod
+displayName="More Useful Eggs" #mandatory
+
+# A file name (in the root of the mod JAR) containing a logo for display
+
+# A text field displayed in the mod UI
+credits="Thanks to my wife Verlia for the icon artwork, and all the support!" #optional
+
+# A text field displayed in the mod UI
+authors="Ahrondus for mod code, Verlia for textures" #optional
+
+# The description text for the mod (multi line!) (#mandatory)
+description='''
+
+'''
+
+# This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"

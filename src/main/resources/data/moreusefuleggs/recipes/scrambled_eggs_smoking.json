@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:smoking",
+	"ingredient": {
+		"item": "moreusefuleggs:egg_bowl_uncooked"
+		},
+	
+	"result": "moreusefuleggs:scrambled_eggs",
+	"experience": 0.3,
+	"cookingtime": 150
+}

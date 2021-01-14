@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		  {
+			"item": "moreusefuleggs:toast_bread"
+		  },
+		  {
+			"item": "moreusefuleggs:toast_bread"
+		  },
+		  
+		  {
+		  	"item": "moreusefuleggs:fried_eggs"
+		  }
+		
+		],
+	
+	"result": 
+	{
+		"item": "moreusefuleggs:toastfried_eggs",
+		"experience": 0.4
+	}
+}
